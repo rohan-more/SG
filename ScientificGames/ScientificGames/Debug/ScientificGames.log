@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\rohan\documents\visual studio 2017\projects\scientificgames\scientificgames\main.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  ScientificGames.vcxproj -> C:\Users\Rohan\Documents\Visual Studio 2017\Projects\ScientificGames\Debug\ScientificGames.exe
+  ScientificGames.vcxproj -> C:\Users\Rohan\Documents\Visual Studio 2017\Projects\ScientificGames\Debug\ScientificGames.pdb (Partial PDB)
